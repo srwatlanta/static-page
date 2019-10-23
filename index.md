@@ -34,7 +34,7 @@
       <div class="skill-row">
         <img class="tree2" src="images/palm-tree.png" alt="Palm Tree">
         <h3>Leadership</h3>
-        <p>Have worked in retail leadership for over 12 years for companies such as Fendi, Jimmy Choo, SuitSupply, Jason's Deli, Kroger and Planet Blue. Assistant Coach to the Men's USA Dodgeball Team.</p>
+        <p>Have worked in retail leadership for over 12 years for companies such as Fendi, Jimmy Choo, SuitSupply, Jason's Deli, Kroger and Planet Blue. Captain and Coach of Elite Dodgeball National Champions.</p>
       </div>
       <div class="skill-row2">
         <img class="tree" src="images/weeping-willow.png" alt="Weeping Willow">
